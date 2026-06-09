@@ -8,11 +8,7 @@ Fudan University's optimization of [ASC26](https://www.asc-events.net/StudentCha
 
 ## The original README:
 
----
-
 # AMSS-NCKU
-
----
 
 #### What can AMSS-NCKU do
 
